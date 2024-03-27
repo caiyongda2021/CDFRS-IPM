@@ -17,11 +17,11 @@
      
   The source code files available under src/main/scala/org/example:
 
-  (1) Efficiency_Evaluation.scala - Source code for the sampling time experiment to evaluate efficiency.
+  (1) Efficiency_Evaluation - Source code for the sampling time experiment to evaluate efficiency.
   
-  (2) Asymptotic_Algorithm.scala - Source code for the sample size determining experiment using an asymptotic algorithm.
+  (2) Asymptotic_Algorithm - Source code for the sample size determining experiment using an asymptotic algorithm.
   
-  (3) Applications.scala - Source code for machine learning experiments and applications.
+  (3) Applications - Source code for machine learning experiments and applications.
 
 5. Contact
     
